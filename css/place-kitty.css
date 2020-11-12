@@ -1,6 +1,4 @@
 /* Select the image with a class of kitty-1 */
-img .kitty-1
-img #kitty-2
 
 img .kitty-1{
   position: absolute;
